@@ -14,7 +14,7 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "http://127.0.0.1:8000/api/users",
+          "raw": "http://127.0.0.1:8001/api/users",
           "protocol": "http",
           "host": [
             "127",
@@ -22,7 +22,7 @@
             "0",
             "1"
           ],
-          "port": "8000",
+          "port": "8001",
           "path": [
             "api",
             "users"
@@ -37,7 +37,7 @@
         "method": "POST",
         "header": [],
         "url": {
-          "raw": "http://127.0.0.1:8000/api/users",
+          "raw": "http://127.0.0.1:8001/api/users",
           "protocol": "http",
           "host": [
             "127",
@@ -45,7 +45,7 @@
             "0",
             "1"
           ],
-          "port": "8000",
+          "port": "8001",
           "path": [
             "api",
             "users"
@@ -60,7 +60,7 @@
         "method": "PATCH",
         "header": [],
         "url": {
-          "raw": "http://127.0.0.1:8000/api/users/1",
+          "raw": "http://127.0.0.1:8001/api/users/1",
           "protocol": "http",
           "host": [
             "127",
@@ -68,7 +68,7 @@
             "0",
             "1"
           ],
-          "port": "8000",
+          "port": "8001",
           "path": [
             "api",
             "users",
@@ -84,7 +84,7 @@
         "method": "DELETE",
         "header": [],
         "url": {
-          "raw": "http://127.0.0.1:8000/api/users/1",
+          "raw": "http://127.0.0.1:8001/api/users/1",
           "protocol": "http",
           "host": [
             "127",
@@ -92,7 +92,7 @@
             "0",
             "1"
           ],
-          "port": "8000",
+          "port": "8001",
           "path": [
             "api",
             "users",
